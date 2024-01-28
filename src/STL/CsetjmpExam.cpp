@@ -2,7 +2,7 @@
 #include <setjmp.h>
 
 
-
+/*
 class Csetjmp_Exam{
 
 public:
@@ -41,3 +41,4 @@ public:
         printf("func1: Bu kod calismayacak\n");
 }
 };
+*/

@@ -12,8 +12,10 @@ set(SOURCES
     src/STL/AnyExam.cpp
     src/STL/BitsetExam.cpp
     src/STL/ChronoExam.cpp
-    #src/STL/CompareExam.cpp
+    src/STL/CompareExam.cpp
     src/STL/CsetjmpExam.cpp
+    src/STL/CsignalExam.cpp
+
 
 
 
